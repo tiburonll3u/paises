@@ -1,0 +1,309 @@
+
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PT3lLA38Zm-e7vR7gbD4cBuwlg-nkOM-8YHV7Yp_S9bL8BMNr710DnuEdJ8etPhWFzpFhL7_Tyc=s176-c-k-c0x00ffffff-no-rj" group-title="REP DOMINICANA", 002 Radio TV 
+https://cdn.002radio.com:3909/live/radio002live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDXE6WavlefP4LDEvNZCWr2J4G4uxtpmwOuAmoj8ENP77DriSfKyG6JYklfofE496ZBYU&usqp=CAU" group-title="REP DOMINICANA", Agenda 56
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVRbPaRs9NnuEb209i880Apdeo9U93BHuTOo5sBXT38tEV5UfrZaNh-lPWcszNLhwyTI&usqp=CAU" group-title="REP DOMINICANA", AION TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2852-294x165-FFFFFF.jpg" group-title="REP DOMINICANA", Alegre TV
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/600680348289118208/8tuSgbRS_400x400.png" group-title="REP DOMINICANA",Amé 47
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SMZzVkRBPgo/XzgTrVaVKKI/AAAAAAAA4SQ/lSI2HspsiS8UcIAYkCAS5loSKGdfQDZ6ACK8BGAsYHg/s0/2020-08-15.jpg" group-title="REP DOMINICANA", BONAO TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQetDIzeP7sozt2i96mt1Awsd7mKUMk9H0_xGPC=s900-c-k-c0x00ffffff-no-rj" group-title="REP DOMINICANA", Boreal 
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/24uG2sl5pxw/maxresdefault.jpg" group-title="REP DOMINICANA", Camino Real TV
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1027_Canal4RD.png" group-title="REP DOMINICANA", Canal4RD 
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="REP DOMINICANA", Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPaYf5_qtzNBFX4Usf0fTMjDAiikjKP1ipRNBiUV24lr_Rrf6I9ABlMs-UaJhFHYzUrs&usqp=CAU" group-title="REP DOMINICANA", Canal 56
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_f-yestBSLO4lUTkRATAcqQ8PbaSbyuyQ-R8CkBy5EVp_nnOL_ToANpuIQmCwfyVkdv57gkJ_w=s176-c-k-c0x00ffffff-no-rj" group-title="REP DOMINICANA", Canal Catorce
+https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dhCVo_7LktMfQ9JVqkDI1UiHWvCftES9SFRV-HXMm1SCTlGX6Z2uQKH--HxzaX7ZSWk&usqp=CAU" group-title="REP DOMINICANA", Caribbean Traveling Network
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOgSi8023Ty8oxAWu3NeTwSjiIIrhy14nIjseqcyUJlzKrZLW-JDj-VdIXiSM8bBJkE5Y&usqp=CAU" group-title="REP DOMINICANA", Carivision
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-1/325200806_1323603495060267_6760869613041070470_n.jpg?stp=c32.32.176.176a_dst-jpg_p240x240&_nc_cat=101&cb=99be929b-3346023f&ccb=1-7&_nc_sid=c6021c&_nc_eui2=AeGdyLZm8KvevubFy-gO71IplPKtZI_mHsuU8q1kj-Yeyz-kU1HUrECEFWb3E4dz-q8&_nc_ohc=ec4ES53LwRsAX8WpTGS&_nc_ht=scontent.fepa11-1.fna&oh=00_AfCsKCcfISqIaKL-uappM7kydtm6MAkYG-IEkEAb2Jbyhg&oe=64D0150B" group-title="REP DOMINICANA", Cáscara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.com.do/wp-content/uploads/2022/05/71e5df12-logo-cdn-w-1.svg" group-title="REP DOMINICANA", CDN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSIy4siRsB7VGgCEmazGQJBuvw7aLRFr_S7Fnd4HzSG7_RSuvSIS0wBWOUUikwsqVoMk&usqp=CAU" group-title="REP DOMINICANA", Cibaeña TV
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cielotv.do/wp-content/uploads/2023/06/CTV-500px.png" group-title="REP DOMINICANA", Cielo TV
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="REP DOMINICANA", Cinevision Canal 19
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630933029827891201/OZ3o-dVN_400x400.jpg" group-title="REP DOMINICANA", COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GYq8Q5OJw6Od84PQjYsFjEDgPgklVyiliXg7mM-T1mdGsOZFTvH1wpuseRwRxbtz74Q85Vt9iw=s900-c-k-c0x00ffffff-no-rj" group-title="REP DOMINICANA", CTV Canal 76
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3upPZAUOKQgSuig56JWX7gbs73dDwv2rWMEaXyDgGoo5kmwNrxrhy9kygoXlcefE0ts&usqp=CAU" group-title="REP DOMINICANA", DAN TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://digital809tv.com/wp-content/uploads/2017/06/cropped-DIGITAL809TV-teless-540-1.jpg" group-title="REP DOMINICANA", Digital809 TV
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/878989434196295680/p1LEA6U4_400x400.jpg" group-title="REP DOMINICANA", Digital Vision 63
+https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnX7V0a37d7M2_Gp2asscohWcJ1Q7DVQ3YU4uG8nGl-hpdhOucNwbXtqJiy1cshNagZoU&usqp=CAU" group-title="REP DOMINICANA", Ecovisión
+https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B-xmeIzShMA/XzgVttyb-XI/AAAAAAAA4TQ/3NYa5It_NjoiP1w4a5l5kIZfQD7s8VPpwCK8BGAsYHg/s0/2020-08-15.jpg" group-title="REP DOMINICANA", Entelevision 
+https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="REP DOMINICANA", Fuego TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/galaxia-teve-canal-42.jpg" group-title="REP DOMINICANA", GalaxiaTeVe
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="REP DOMINICANA", GDMTV
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ_400x400.jpeg" group-title="REP DOMINICANA", GH Television Canal 10
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1011_Guaymate_TV.png" group-title="REP DOMINICANA", Guaymate TV 
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-1/298585500_439913194818806_2066969567228722980_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&cb=99be929b-3346023f&ccb=1-7&_nc_sid=c6021c&_nc_eui2=AeFwdDxNY0HPVdf-kFmveqpU6fmTdtyqZjPp-ZN23KpmMzPUC6Xsskwcpi9kYjYpg-w&_nc_ohc=GvqQq7pWErQAX_HaKWk&_nc_ht=scontent.fepa11-1.fna&oh=00_AfChrFicf2ppXFwGCaqS3Vh9xWtaGDbCu3qxYmmWYOIWgQ&oe=64CF7EA6" group-title="REP DOMINICANA", Haina Vision 
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="REP DOMINICANA", Hermanas Mirabal TV
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="REP DOMINICANA", Hilando Fino
+https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="REP DOMINICANA", Hits 360 TV 
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyq3LISw3pjsJAtXqOttCZd8lWHyjaA1yWFV8elnN6DOLNxrqPLn61pzqDnDKSkdTXUqU&usqp=CAU" group-title="REP DOMINICANA", HM TV
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspnBBAdV2vy-Ow-HcyU79vkhVlJ8-aruMOdBqBz1BmnRbYLO1mB5mVn3iiOiIdCRj-30&usqp=CAU" group-title="REP DOMINICANA", HTV Live 
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0797y_ofavZ3XL0bKQVc_UpP8ireSj7yLQPiPqy3451_PUoCvY_gqdeXwLcU0t9PCog&usqp=CAU" group-title="REP DOMINICANA", Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/46140fd597ed896d58f12c7e794d5f06.webp" group-title="REP DOMINICANA", Jazmín TV 
+https://tvdatta.com:3957/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png" group-title="REP DOMINICANA", La Fe Mueve Montanas 
+https://inliveserver.com:1936/10020/10020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7df2f1_45df2eaf411e4a06ad3e50bf47efb203~mv2.png/v1/fill/w_213,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7df2f1_45df2eaf411e4a06ad3e50bf47efb203~mv2.png" group-title="REP DOMINICANA", La Voz de María
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/726_Luna_TV.png" group-title="REP DOMINICANA", Luna TV 
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeX0lq4SWbs-WjRk9imEJXd3OA-apXCNZHIjLLvnZWmX210NqlW1zBT4L3pA4emXa2A&usqp=CAU" group-title="REP DOMINICANA", Maimón TV Canal 3
+https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKSJ-yYVLtueX-YGje5BIAN2ovckeXrxlsqN2sLgAH8oZiDuA-K-UJkVvleXQEWnY28c&usqp=CAU" group-title="REP DOMINICANA", Makao TV
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png" group-title="REP DOMINICANA", MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="REP DOMINICANA", Megavision
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png" group-title="REP DOMINICANA", Megavision
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzToMwklrJf0Qz1_xcT3ixmgzHkCOZ4h9fJWp5xzFMrT19iwMbGNR2TpA_lOXifTshak&usqp=CAU" group-title="REP DOMINICANA", Misión ELTV
+https://paz.sytes.net:5443/live/streams/misioneltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90AAsvjVsZlviwu6sn9uLvEP5R0SkWbRPHLS3KzOn-vziRMb4_DxZmTxDm2rqTQlYq4Q&usqp=CAU" group-title="REP DOMINICANA", MiTV
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29pgOI6r2U4rjKZ1zCOIAM0DQcl5ThnZRQDDhnebTjo425ZyTjo0yeyq_eq3YtbiFDrc&usqp=CAU" group-title="REP DOMINICANA", MorroTV
+https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWljGnnb4xsR2MJ2PCzGSugprdK1PEcW-t41AU-prt2jMUnwn9pyCNUaQlZ0g-9fUdAY&usqp=CAU" group-title="REP DOMINICANA", Mun2TV
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/naranjatv.png" group-title="REP DOMINICANA", Naranja TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1896-294x165-FFFFFF.jpg" group-title="REP DOMINICANA", Nexxo TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png" group-title="REP DOMINICANA", Nitida TV 
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/740776554519789568/9OUWHYf9_400x400.jpg" group-title="REP DOMINICANA", ONDA TV CANAL 10
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="REP DOMINICANA", ORBIT TV 
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/peraviavision.jpg?itok=RiIYH2I5" group-title="REP DOMINICANA", PERAVIA VISION 
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="REP DOMINICANA", PH
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2982-800x450-FFFFFF.jpg" group-title="REP DOMINICANA", Pula TV
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjElOX0JeyK1Gl62zJFbNRF1b8r_c7fK-h-PjV4WGGCKUtvI42jhsUGsP0a4p4z-CFQU&usqp=CAU" group-title="REP DOMINICANA", RDN 
+https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="REP DOMINICANA", Ready TV Canal 6
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMjoFKEQ3KpLUxTY1PfK4rbtIlKBPol5AgYG1Z3rChAU0SblIGTFyqork-vSMzPZBlro4&usqp=CAU" group-title="REP DOMINICANA", Red Social Códi TV
+https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png" group-title="REP DOMINICANA", RNN
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv3jShy.jpg" group-title="REP DOMINICANA", Romana TV Canal 42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwe_hXJZghEOU6_nU_fAC1Tn59aRjWDxrGlPl1WmDGGLMi2QWMgYwNR0U2e7ZEa14cPNg&usqp=CAU" group-title="REP DOMINICANA", Santiago TV
+http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ph_lfdXm5rSqu3pO9a-aufEMbI9Ofkbd7cFE6HsIaGusgofV-k0uSJPf4FA25tjPtaM&usqp=CAU" group-title="REP DOMINICANA", Sensación TV
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2019/05/sitv.png" group-title="REP DOMINICANA", SiTV
+http://190.122.104.221/Player/sitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2022/10/Logos-su-mundo-tv-15.png" group-title="REP DOMINICANA", Su Mundo TV
+https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="REP DOMINICANA", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-cibao-hd.png" group-title="REP DOMINICANA", TeleCibao
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpkPjzeR-ik5a1xa97togEzbwPfmf5eHLmO2_TtSLfwrLSZVxUBbmu58F5TpmGIMI3Cak&usqp=CAU" group-title="REP DOMINICANA",TeleCONTACTO CANAL 57
+https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="REP DOMINICANA", Telefuturo Canal 23 
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780827633734983680/T-6k4RMI_400x400.jpg" group-title="REP DOMINICANA", Teleimpacto
+http://190.122.96.188:8888/http/013
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3NdLGalioddplx-bM4K49m6OiTN2ctHb0MEPy9M-M6-U07lCW8snWy0c-k0WRtkZRg&usqp=CAU" group-title="REP DOMINICANA", Telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="REP DOMINICANA", Telemilenio
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="REP DOMINICANA", Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="REP DOMINICANA", Telenord 10 
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="REP DOMINICANA", Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png" group-title="REP DOMINICANA", Tele Oriental Digital
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Qa5t4_WlVbpeeW2ydO6_juFSdFgbz1Ih7qX_BNpPu5uW654RkvygXWqzxAEBH8q6nV-f-4L_=s176-c-k-c0x00ffffff-no-rj" group-title="REP DOMINICANA", TeleRadioNorte
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telesantodomingo.com/imagen/tele-santo-domingo.png" group-title="REP DOMINICANA", Telesantodomingo
+https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png" group-title="REP DOMINICANA", Telesur Canal 10
+https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="REP DOMINICANA", Teleunion
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png" group-title="REP DOMINICANA", Teleuniverso Canal 29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIvUmHUBLN_qzR-sfaiZhRHniyKCcKkmGEV0LAGkplm99Q37gKI2yzKC_3hBMlTDdohwY&usqp=CAU" group-title="REP DOMINICANA", Telever
+https://servilive.com:3758/live/televerlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png" group-title="REP DOMINICANA", Televisión del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
+
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/1117.jpg" group-title="REP DOMINICANA", TNI Canal51 
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/33/47/ff/3347ff91-2eeb-403d-8e53-f32f3c981c63/source/60x60bb.jpg" group-title="REP DOMINICANA", TRA 2
+https://live.teledom.info:3242/live/teleradiohdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/e8/63/6ae863f2-12ea-6a83-5db0-18e9a22d7f68/AppIcon-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" group-title="REP DOMINICANA",TRA Noticias
+https://live.teledom.info:3625/live/tra45live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="REP DOMINICANA", TU MUSICA HD
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv10sanjuan.com.do/wp-content/uploads/2020/09/LOGO-TV10-unico-1.png" group-title="REP DOMINICANA", TV 10 San Juan 
+https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png" group-title="REP DOMINICANA", TV Exitos 
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvhigueydigital.com/wp-content/uploads/2021/08/tvDigital.png" group-title="REP DOMINICANA", TV Higuey Digital
+https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgckg3.jpg" group-title="REP DOMINICANA", TV Montaña Canal 10
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSIcEm875eoEBvKUHmSiN8gRPOlc8R-PfXh22Rr=s176-c-k-c0x00ffffff-no-rj" group-title="REP DOMINICANA", TV Plata
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Color_Vision.jpg" group-title="REP DOMINICANA", TV Visión
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/vallevision-la-vega.webp" group-title="REP DOMINICANA", Vallevision Canal 10
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png" group-title="REP DOMINICANA", Vegavision Canal 18
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSIx_jgOrKhN7jIpqX90EldIPq6hixsxE_7Egg-lw=s176-c-k-c0x00ffffff-no-rjg" group-title="REP DOMINICANA", Xtremo Channel
+https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90m0E-a_lI9H8eT7J1AFr7yqkTHLq63vjmWeG8rzBYWC32gLTUuLuiJdzrdcyDsYUvoo&usqp=CAU" group-title="REP DOMINICANA", Yunavisión
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="REP DOMINICANA", Zol106
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XJOx_Y43OuhBDtQ2wLVr4W5jlOObbuVSPosEGdOpXg7NZs8rOAW4qd4SaBKK4z_NYcU&usqp=CAU" group-title="REP DOMINICANA", ZTV 
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
