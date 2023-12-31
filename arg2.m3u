@@ -347,19 +347,20 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV DICIEMBRE", Neox TV 
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV DICIEMBRE", NAPOLEON
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV ENERO", NAPOLEON
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV DICIEMBRE", LOS JUEGOS DEL HAMBRE 2023
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV ENERO", LOS JUEGOS DEL HAMBRE 2023
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV DICIEMBRE", LEO
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV ENERO", AQUAMAN
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV DICIEMBRE", THE MARVELS
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV ENERO", THE MARVELS
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV DICIEMBRE", WONKA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV ENERO", WONKA
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV DICIEMBRE", TROLLS 3
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV ENERO", PATOS
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
