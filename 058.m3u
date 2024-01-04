@@ -33,14 +33,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8
 #EXTINF:-1,PARAGUAY C9N
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(cn9)/index.m3u8
-#EXTINF:-1,PARAGUAY GEN TV
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(cn9)/index.m3u8
-#EXTINF:-1,ARGENTINA CANAL 13 LA RIOJA
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1,ARGENTINA CANAL COOP JESUS ​​MARIA
-https://panel.dattalive.com/8138/8138/chunklist_w1027290367.m3u8
-#EXTINF:-1,ARGENTINA CANAL LITUS TV
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
 
 #EXTINF:-1, AMERICA CLARO
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMERICA_TV)/index.m3u8
@@ -87,10 +80,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TN)/i
 #EXTINF:-1, A24 Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(A24)/index.m3u8
 
-#EXTINF:-1, ip
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(IP_NOTICIAS)/index.m3u8
-
-#EXTINF:-1, ip
+#EXTINF:-1, IP Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(IP)/index.m3u8
 
 
