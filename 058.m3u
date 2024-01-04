@@ -101,4 +101,5 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(BRAVO
 
 #EXTINF:-1, CIUDAD Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_DE_LA_CIUDAD)/index.m3u8
-
+#EXTINF:-1, LN+ Claro
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_NACION_+)/index.m3u8
