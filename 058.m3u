@@ -87,26 +87,12 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TN)/i
 #EXTINF:-1, A24 Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(A24)/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports Premium HD" tvg-name="Fox Sports Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="Deportes",Fox Sports Premium HD
-https://ayf.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+#EXTINF:-1, ip
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(IP_NOTICIAS)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="Deportes",ESPN Premium (2)
-https://ayf.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1, ip
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(IP)/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/ESPN_2.jpg/revision/latest/scale-to-width-down/300?cb=20200211195749&path-prefix=es" group-title="Deportes",ESPN 2
-https://ayf.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium
-https://ayf.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sports (2)
-https://ayf.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-
-#EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
-https://ayf.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="525", Tango Sports 
-https://finternet.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 
