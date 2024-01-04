@@ -96,5 +96,9 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NET_T
 
 #EXTINF:-1, ENCUENTRO Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ENCUENTRO)/index.m3u8
-#EXTINF:-1, ENCUENTRO Claro
+#EXTINF:-1, BRAVO Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(BRAVO_TV)/index.m3u8
+
+#EXTINF:-1, CIUDAD Claro
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_DE_LA_CIUDAD)/index.m3u8
+
