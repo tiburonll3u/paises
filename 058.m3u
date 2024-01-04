@@ -70,6 +70,9 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_S
 #EXTINF:-1, FOX SPORTS 2 Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_2)/index.m3u8
 
+#EXTINF:-1, FOX SPORTS 3 Claro
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3)/index.m3u8
+
 #EXTINF:-1, C5N Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(C5N)/index.m3u8
 
