@@ -5,8 +5,7 @@
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1,TIGO GUATEMALA
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
 #EXTINF:-1,infantil DISCOVERY KIDS CHANNEL
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_KIDS_HD)/index.m3u8
 #EXTINF:-1,infantil DISNEY JUNIOR
@@ -92,5 +91,9 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL
 #EXTINF:-1, PAKAPAKA Claro
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PAKA_PAKA)/index.m3u8
 
-#EXTINF:-1, PAKAPAKA Claro
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NET)/index.m3u8
+#EXTINF:-1, NET TV Claro
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NET_TV)/index.m3u8
+
+#EXTINF:-1, ENCUENTRO Claro
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ENCUENTRO)/index.m3u8
+
