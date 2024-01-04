@@ -1,7 +1,46 @@
 
 
+
 #EXTM3U
 
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#EXTINF:-1,TIGO GUATEMALA
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1,infantil DISCOVERY KIDS CHANNEL
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_KIDS_HD)/index.m3u8
+#EXTINF:-1,infantil DISNEY JUNIOR
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_JUNIOR)/index.m3u8
+#EXTINF:-1,infantil NICK JR HD
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_JR_HD)/index.m3u8
+#EXTINF:-1,infantil CARTOON NETWORK HD
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CARTOON_NETWORK_HD)/index.m3u8
+#EXTINF:-1,infantil DISNEY HD
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_CHANNEL)/index.m3u8
+#EXTINF:-1,infantil TEENNICK
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
+#EXTINF:-1,infantil NICK HD ARG
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_HD)/index.m3u8
+#EXTINF:-1,PARAGUAY SURTV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8
+#EXTINF:-1,PARAGUAY TELEFUTURO
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8
+#EXTINF:-1,PARAGUAY UNICANAL
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8
+#EXTINF:-1,PARAGUAY SNT
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8
+#EXTINF:-1,PARAGUAY NPY
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8
+#EXTINF:-1,PARAGUAY C9N
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(cn9)/index.m3u8
+#EXTINF:-1,PARAGUAY GEN TV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(cn9)/index.m3u8
+#EXTINF:-1,ARGENTINA CANAL 13 LA RIOJA
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1,ARGENTINA CANAL COOP JESUS ​​MARIA
+https://panel.dattalive.com/8138/8138/chunklist_w1027290367.m3u8
+#EXTINF:-1,ARGENTINA CANAL LITUS TV
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 
 
