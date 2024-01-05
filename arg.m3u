@@ -739,14 +739,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1435__Cine.png" group-title="CINE", + CINE
 https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1547_ARCine.png" group-title="CINE", CINE por ARPLAY
-https://stmv5.livecastv.com/arplaytv/arplaytv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Labx7XLbNRE/hqdefault.jpg" group-title="CINE", VIDEO CLUB
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5b157c3c4e4df514dab25bcb6e5d53cc.webp" group-title="CINE", MEGA CINE
-https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="INFANTIL", PAKA PAKA  22.2
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
