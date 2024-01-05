@@ -4,14 +4,7 @@
 #EXTM3U
 
 
-#EXTINF:-1, VOLVER Claro
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(VOLVER)/index.m3u8
 
-#EXTINF:-1, CANAL E Claro
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_E)/index.m3u8
+#EXTINF:-1, CANAL 10 Claro
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_10_DE_TUCUMAN)/index.m3u8
 
-#EXTINF:-1, METRO Claro
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(METRO)/index.m3u8
-
-#EXTINF:-1, METRO Claro
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(VENUS)/index.m3u8
