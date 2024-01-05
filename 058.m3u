@@ -4,5 +4,5 @@
 #EXTM3U
 
 
-#EXTINF:-1, LN+ Claro
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_NACION_MAS)/index.m3u8
+#EXTINF:-1, VOLVER Claro
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(VOLVER)/index.m3u8
