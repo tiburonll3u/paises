@@ -37,28 +37,28 @@ http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/2121662
 http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/155677
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 3
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/298158
+https://cem02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
-http://51.222.241.122:8080/ElgaFiallos09/FiallosElga9H/99766
+https://cem02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
-http://abcnew.site:8880/DYJ12M2641/3252345623/49718
+https://davitel.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 6
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/3204
+https://davitel.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 7
+https://f2play.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 8
+https://f2play.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
-https://panel.dattalive.com/8194/8194/playlist.m3u8
+https://cooplay.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
-https://panel.dattalive.com/8026/8026/playlist.m3u8
+https://cooplay.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
 
@@ -73,12 +73,6 @@ https://panel.dattalive.com/8026/8026/playlist.m3u8
 
 
   
-
-
-  
-
-
-
 
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1
