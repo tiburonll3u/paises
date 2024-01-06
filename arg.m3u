@@ -1422,7 +1422,7 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w1837605383.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826578535909294080/xUFoE_Sl_400x400.jpg" group-title="CHUBUT", CANAL 4 ESQUEL
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="CHUBUT", TELECINCO TRELEW
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-6/312099817_519261313548144_7857505278061961588_n.png?stp=dst-png_p960x960&_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFTgkbbSRp7yLj5UgFH5EhcK9Z9XpPEaigr1n1ek8RqKEMxgI5AKGwOCdmXKSBunw4&_nc_ohc=vMfxv_Gt00wAX98kcBi&_nc_ht=scontent.fepa11-1.fna&oh=00_AfAMiegeczQyp4OVuINCkGzbsP8kssFZsnVmqKw4g3WU5w&oe=659F5A04" group-title="CHUBUT", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1384133238503841793/N7dEaLMz_400x400.jpg" group-title="CHUBUT", CADENA TIEMPO TRELEW 
@@ -1896,11 +1896,9 @@ https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmpucara917.com/uploads/logo/logo_5ccca1e3a8bcc.png" group-title="LA RIOJA", FM PUCARA 91.7 CHILECITO
 https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.orionfmchepes.com.ar/uploads/logo/logo_62eb284d7d1f5.png" group-title="LA RIOJA", ORION FM CHEPES
-https://stmvideo1.livecastv.com/orion/orion/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vfDLTzD8vBWi3gZw21Xi4QQk_Jva3fmrhtCgZQjgIF1kxZ9xsW5fTFvGqIn7sGZ3ZO9ce9HwRA=s176-c-k-c0x00ffffff-no-rj" group-title="LA RIOJA", RADIO GAMA VILLA UNIÓN
 https://ythls.armelin.one/channel/UCVsKOW-o5SZb2wpGmsUWjTw.m3u8
+
 
 
 
