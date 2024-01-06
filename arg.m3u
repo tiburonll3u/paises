@@ -41,7 +41,7 @@ http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/155677
 http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/203186
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
-http://home-playtv.com:8080/RMVBU/HZSEP/215252
+https://cem02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
 https://davitel.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
@@ -55,13 +55,13 @@ https://f2play.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 8
 https://f2play.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
-
-
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
-https://panel.dattalive.com/8194/8194/playlist.m3u8
+https://cooplay.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
-https://panel.dattalive.com/8026/8026/playlist.m3u8
+https://cooplay.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
+
 
 
 
