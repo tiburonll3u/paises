@@ -268,14 +268,19 @@ https://ythls.armelin.one/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
 #EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
 https://ythls.armelin.one/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
+https://ythls.armelin.one/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ruRhVGvHxCp8aj_RC_VzYuuK8V72JdTPQZnTpvgLs0kRDwNlEZYFxliUmW0aH9Hu_K3-erAGMA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Vocería Presidencial
+https://ythls.armelin.one/channel/UCCSbOixo2xpZc_oToqeq2jQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO LA RED AM 910
 https://ythls.armelin.one/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ECOAM.png" group-title="NOTICIAS NACIONALES", ECO MEDIOS
 https://ythls.armelin.one/channel/UCIoNMC1V8SQ6gPcyoPj7aIw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
-https://ythls.armelin.one/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SYF5BHG2NEezqYYqnZNSmQR-Fc4DuguOJ1-qW47XDeogzBJk-bo4OnnDJQWQaK-4d7jHhpHMv3w=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
 https://ythls.armelin.one/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
@@ -283,8 +288,7 @@ https://ythls.armelin.one/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
 https://ythls.armelin.one/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRViyhqrK_4KgGtkRD8XC5a0VtNWvkIZIvpDSOuKQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil - Eventos
-https://ythls.armelin.one/channel/UCl6L85YuyK4rVn5NI--dHUw.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)
 https://ythls.armelin.one/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
